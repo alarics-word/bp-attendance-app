@@ -5,8 +5,8 @@ import 'sync_service.dart';
 import 'scan_screen.dart';
 
 // TODO: fill in from Supabase project settings > API
-const supabaseUrl = 'YOUR_SUPABASE_URL';
-const supabaseAnonKey = 'YOUR_SUPABASE_ANON_KEY';
+const supabaseUrl = 'https://atmbgyydvuclverpcgtj.supabase.co';
+const supabaseAnonKey = 'sb_publishable_Swcbi4L3hxTLMVLO5nptUQ_YCwd7TcX';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
